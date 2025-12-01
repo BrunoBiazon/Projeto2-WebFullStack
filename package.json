@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "mongoose": "^9.0.0",
-    "node-cache": "^5.1.2",
-    "perfect-express-sanitizer": "^2.0.2"
-  }
-}
