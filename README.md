@@ -71,6 +71,10 @@ Usuários podem registrar, logar e cadastrar alimentos manualmente.
 <img width="1873" height="925" alt="image" src="https://github.com/user-attachments/assets/13a78718-1225-4cb1-b2a3-6448e6d029aa" />
 
 ---
+### Busca
+<img width="673" height="559" alt="image" src="https://github.com/user-attachments/assets/1100c545-1653-49ce-aae7-77d40efb7166" />
+
+---
 ### Login e Registro
 <img width="1876" height="930" alt="image" src="https://github.com/user-attachments/assets/71330f33-a182-41c7-893e-04248e5f0f40" />
 
