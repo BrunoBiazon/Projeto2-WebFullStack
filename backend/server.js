@@ -3,7 +3,7 @@ dotenv.config();
 
 import express from "express";
 import cors from "cors";
-import perfectExpressSanitizer from "perfect-express-sanitizer"; // ✔ biblioteca correta
+import perfectExpressSanitizer from "perfect-express-sanitizer"; 
 
 import { connectDB } from "./src/config/db.js";
 import authRoutes from "./src/routes/auth.js";
